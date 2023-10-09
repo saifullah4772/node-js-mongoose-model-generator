@@ -10,8 +10,11 @@ Inside this project, you'll see the following folders and files:
 /
 ├── config/
 ├── createModel.js
+├── .env.local
+├── README.md
 ├── index.js
 └── package.json
+└── package-lock.json
 ```
 
 ## Commands
